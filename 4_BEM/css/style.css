@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  width: 100%;
+  height: 100px;
+  border: 1px solid black;
+  background-color: rgba(111, 214, 239, 0.889);
+}
+
+.nav__logo {
+  padding: 10px;
+}
+
+.nav__links {
+  text-decoration: none;
+  color: orange;
+  text-align: right;
+  padding: 15px;
+}
+
+.nav__links:hover {
+  color: red;
+}
