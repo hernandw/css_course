@@ -10,8 +10,8 @@ body {
 }
 
 .card__container {
-  width: 330px;
-  min-height: 350px;
+  width: 250px;
+  min-height: 280px;
   background-color: #fff;
   margin: 0 auto;
   margin-top: 70px;
@@ -57,32 +57,27 @@ body {
   height: 100%;
   display: block;
   margin-top: 10px;
+  background-repeat: no-repeat;
+  width: 40px;
 }
 
 .card__icon--facebook {
   background-image: url("../icons/facebook.svg");
-  background-repeat: no-repeat;
-  width: 40px;
-  height: 40px;
+  
+  
 }
 
 .card__icon--twitter {
   background-image: url("../icons/twitter.svg");
-  background-repeat: no-repeat;
-  width: 40px;
-  height: 40px;
+  
 }
 
 .card__icon--youtube {
   background-image: url("../icons/youtube.svg");
-  background-repeat: no-repeat;
-  width: 40px;
-  height: 40px;
+  
 }
 
 .card__icon--instagram {
   background-image: url("../icons/instagram.svg");
-  background-repeat: no-repeat;
-  width: 40px;
-  height: 40px;
+  
 }
